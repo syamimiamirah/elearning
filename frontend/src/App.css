@@ -46,6 +46,25 @@
 .App-link {
   color: #61dafb;
 }
+.register {
+  margin-left: 30%;
+}
+.inputBox {
+  padding: 7px;
+  display: block;
+  border: 1px solid lightcoral;
+  width: 300px;
+  margin: 20px;
+}
+
+.appButton {
+  margin: 20px;
+  width: 150px;
+  padding: 10px;
+  background-color: lightcoral;
+  border: solid 1px;
+  cursor: pointer;
+}
 
 @keyframes App-logo-spin {
   from {
